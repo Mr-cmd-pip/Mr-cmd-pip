@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr-cmd-pip
+- 👋 Hi, I’m @Mr-cmd-pip still a 3rd yeaer student
 - 👀 I’m interested in Web Development and Software Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
