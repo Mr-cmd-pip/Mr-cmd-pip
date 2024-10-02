@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mr-cmd-pip still a 3rd yeaer student
 - 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS, Django
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me matthewrimar1102@gmail.com
 - 😄 Pronouns: HEE/HEE
 - ⚡ Fun fact: Stowpyd
 
