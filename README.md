@@ -1,6 +1,6 @@
 # Hi, I'm Matthew Rimar Martus
 
-Fourth-year BS Information Technology student at **Cebu Institute of Technology – University** in Cebu City, Philippines. I build web apps and Discord bots, and I'm looking for a **UI/UX or Software Developer internship**.
+Fourth-year BS Information Technology student at **Cebu Institute of Technology – University** in Cebu City, Philippines. I build web apps and Discord bots, and I'm looking for a **UI/UX Design, Project Management or Software Developer internship**.
 
 ## What I work with
 
