@@ -21,7 +21,7 @@ Fourth-year BS Information Technology student at **Cebu Institute of Technology 
 ![Git](https://img.shields.io/badge/Git-222?logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-222?logo=figma&logoColor=F24E1E)
 
-**Also:** PHP, C, C++, REST APIs, Postman, VS Code, Agile and Scrum. I'm currently strengthening my C++, Java and React.
+**Also:** PHP, C, C++, REST APIs, Postman, VS Code, Agile and Scrum. I'm currently strengthening my React.
 
 ## Projects
 
